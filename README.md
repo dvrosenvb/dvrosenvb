@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @dvrosenvb
+- 👋 Hi, I’m <a href="https://twitter.com/rosenvb">@dvrosenvb</a>
 - 🤠 I love this emoji!
 - 🌱 I’m currently learning how to improve on Swift & SwiftUI
